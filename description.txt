@@ -1,0 +1,1 @@
+Toggle Left Click allows you to use an additional mouse button to toggle left click (set to the X2 button). Left mouse also cancels the toggle.

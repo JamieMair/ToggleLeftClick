@@ -1,0 +1,3 @@
+displayName = Toggle Left Click
+author = Jamie Mair
+version = 0.1
